@@ -9,5 +9,3 @@ A Python-based coursework project designed to manage and analyze student progres
 - **Progress Calculation**: Determines student progression based on provided data.
 - **Data Storage**: Saves student progression data to a file for record-keeping.
 - **User-Friendly**: Simple and intuitive command-line interface.
-
----
